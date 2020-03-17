@@ -1,5 +1,6 @@
 body {
   background-color: #effcef;
+  color: #655c56
 }
 
 hr {
@@ -15,8 +16,4 @@ h1 {
 
 h3 {
   color: #94d3ac;
-}
-
-p {
-  color: #655c56;
 }
